@@ -2,9 +2,9 @@
 <h3 align="center">Integrated Science | Statistics × Biology | Econometrics & Computational Modeling</h3>
 
 <p align="center">
-  🌐 <a href="https://callixtafidelia.github.io/portofolio/">Portfolio</a> •
-  📸 <a href="https://www.instagram.com/callixt_/">Instagram</a> •
-  📩 <a href="mailto:callixta124@gmail.com">Email</a>
+   <a href="https://callixtafidelia.github.io/portofolio/">Portfolio</a> •
+   <a href="https://www.instagram.com/callixt_/">Instagram</a> •
+   <a href="mailto:callixta124@gmail.com">Email</a>
 </p>
 
 ---
