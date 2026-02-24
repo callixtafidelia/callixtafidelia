@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Callixta! 💡📊🧬</h1>
+<h1 align="center">Hi, I'm Callixta!  
 <h3 align="center">Integrated Science | Statistics × Biology | Econometrics & Computational Modeling</h3>
 
 <p align="center">
@@ -16,16 +16,16 @@ I apply statistical and computational modeling to understand complex real-world 
 
 ## Research & Projects
 
-🧬 **Evolutionary & Genetic Modeling**  
+ **Evolutionary & Genetic Modeling**  
 Simulation of temporally fluctuating environments and measurement of additive genetic variance (VA) in population models.
 
-🌍 **Spatial & Environmental Analysis**  
+ **Spatial & Environmental Analysis**  
 Remote sensing and geospatial modeling using Google Earth Engine, satellite data, and environmental indicators.
 
-📈 **Econometrics & Policy-Relevant Modeling**  
+ **Econometrics & Policy-Relevant Modeling**  
 Panel data analysis, fixed effects regression, interaction modeling, and time-series forecasting across economic and social systems.
 
-🧪 **Experimental & Applied Statistical Analysis**  
+**Experimental & Applied Statistical Analysis**  
 Factorial experiments, ANOVA, regression modeling, and predictive analysis applied to real-world datasets.
 
 ---
