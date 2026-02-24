@@ -1,93 +1,55 @@
-<h1 align="center">Hi, I'm Callixta 🌿</h1>
-<h3 align="center">Integrated Science | Biology × Statistics | Computational Ecology</h3>
+<h1 align="center">Hi, I'm Callixta! 💡📊🧬</h1>
+<h3 align="center">Integrated Science | Statistics × Biology | Econometrics & Computational Modeling</h3>
 
 <p align="center">
   🌐 <a href="https://callixtafidelia.github.io/portofolio/">Portfolio</a> •
-  💼 <a href="https://www.linkedin.com/in/YOUR-LINK/">LinkedIn</a> •
-  📸 <a href="https://instagram.com/YOUR-USERNAME">Instagram</a> •
+  📸 <a href="https://www.instagram.com/callixt_/">Instagram</a> •
   📩 <a href="mailto:callixta124@gmail.com">Email</a>
 </p>
+
+---
+
+I apply statistical and computational modeling to understand complex real-world systems. My work spans ecology, environmental science, econometrics, and public health data. I enjoy translating messy datasets into structured insights, especially when the problem crosses disciplinary boundaries.
+
+---
+
+
+## Research & Projects
+
+🧬 **Evolutionary & Genetic Modeling**  
+Simulation of temporally fluctuating environments and measurement of additive genetic variance (VA) in population models.
+
+🌍 **Spatial & Environmental Analysis**  
+Remote sensing and geospatial modeling using Google Earth Engine, satellite data, and environmental indicators.
+
+📈 **Econometrics & Policy-Relevant Modeling**  
+Panel data analysis, fixed effects regression, interaction modeling, and time-series forecasting across economic and social systems.
+
+🧪 **Experimental & Applied Statistical Analysis**  
+Factorial experiments, ANOVA, regression modeling, and predictive analysis applied to real-world datasets.
+
+---
+
+## Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Google%20Earth%20Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
+![SLiM](https://img.shields.io/badge/SLiM-2E8B57?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=callixtafidelia&label=Profile%20Views&color=2e8b57&style=flat" />
 </p>
-
----
-
-🔬 I work at the intersection of ecology, spatial analysis, and quantitative modeling.  
-📊 Passionate about computational research, SLiM simulations, remote sensing, and environmental data science.  
-🌎 Based in Vancouver, Canada.
-
----
-
-## 🌿 Research & Projects
-
-🧬 **Genetics of Adaptation (SLiM Simulations)**  
-Modeling temporally fluctuating environments and measuring additive genetic variance (VA).
-
-🌍 **Gallery Forest Mapping**  
-Spatial analysis using Google Earth Engine, HydroSHEDS, and Hansen forest cover data.
-
-🐺 **Camera Trap Wildlife Monitoring**  
-Ecological tagging and biodiversity monitoring using structured datasets.
-
-📊 **Econometrics & Spatial Modeling**  
-Fixed effects models, regression analysis, remote sensing & HDI modeling.
-
----
-
-## 🛠️ Technical Skills
-
-### 📊 Data & Statistical Analysis
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1A4F8B?style=for-the-badge)
-
-### 🌍 Spatial & Remote Sensing
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge)
-![rgee](https://img.shields.io/badge/rgee-R_Earth_Engine-green?style=for-the-badge)
-
-### 🧬 Computational Modeling
-![SLiM](https://img.shields.io/badge/SLiM-Population_Genetics-darkgreen?style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### 💻 Development & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=callixtafidelia&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callixtafidelia&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=callixtafidelia&theme=tokyonight" />
-</p>
-
----
-
-> “Data reveals patterns. Models explain them. Ecology depends on both.”## Hi there 👋
-
-<!--
-**callixtafidelia/callixtafidelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
